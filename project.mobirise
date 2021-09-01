@@ -71,7 +71,7 @@
     "uniqCompNum": 90,
     "versionPublish": "5.4.1",
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "screenshot": "screenshot.png"
   },
   "pages": {
