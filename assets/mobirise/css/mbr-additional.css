@@ -719,7 +719,7 @@ a {
 }
 .cid-sHIzrOXLnR {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #fcf1c4;
 }
 .cid-sHIzrOXLnR .mbr-iconfont {
@@ -755,7 +755,7 @@ a {
 }
 .cid-sHIA0RB7u6 {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
   background-color: #fcf1c4;
 }
 .cid-sHIA0RB7u6 blockquote {
@@ -767,7 +767,7 @@ a {
   text-align: center;
 }
 .cid-sHIIqfa6tL {
-  padding-top: 6rem;
+  padding-top: 1rem;
   padding-bottom: 6rem;
   background-color: #fcf1c4;
 }
@@ -815,8 +815,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -909,7 +907,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #fffefb;
+  background: rgba(255, 254, 251, 0.2);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -1226,8 +1224,6 @@ a {
 .cid-sHroEe1NsX {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sHroEe1NsX nav.navbar {
   position: fixed;
@@ -1320,7 +1316,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #fffefb;
+  background: rgba(255, 254, 251, 0.2);
 }
 .cid-sHroEe1NsX .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -1910,7 +1906,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 254, 251, 0.1);
+  background: rgba(255, 254, 251, 0.2);
 }
 .cid-sHrtVVkClW .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -1936,7 +1932,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sHrtVVkClW .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.2rem);
   }
 }
 .cid-sHrtVVkClW .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2232,8 +2228,6 @@ a {
 .cid-sHrrRrfBPY {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sHrrRrfBPY nav.navbar {
   position: fixed;
@@ -2326,7 +2320,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #fffefb;
+  background: rgba(255, 254, 251, 0.2);
 }
 .cid-sHrrRrfBPY .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
